@@ -1,0 +1,14 @@
+Bill of Material for TCS230.SchDoc
+On 2011/6/19 at 11:05:51
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               CAPC2012L        1    C2                           Capacitor (Semiconductor SIM Model) 
+ 0                   RESC2012L        2    R8, R9                       Semiconductor Resistor 
+ 10K                 RESC2012L        2    R5, R6                       Semiconductor Resistor 
+ 10uF                CAPC3216L        1    C1                           Polarized Capacitor (Surface Mount) 
+ 1K                  RESC2012L        1    R7                           Semiconductor Resistor 
+ 20                  RESC2012L        4    R1, R2, R3, R4               Semiconductor Resistor 
+ Header 4            HDR1X4           2    P1, P2                       Header, 4-Pin        
+ LED0                Led-5.5          4    D1, D2, D3, D4               Typical INFRARED GaAs LED 
+ TCS230              SOIC127P600-8N    1    U1                                                
