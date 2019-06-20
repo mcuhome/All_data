@@ -1,0 +1,120 @@
+/* Effective stylesheet produced by snapshot save */
+.pbg2 { display: block; height: 10px; width: 130px; margin: 0px auto; background: url("ico_jdt.png") repeat-x scroll 0px -10px transparent; border-radius: 5px 5px 5px 5px; }
+.pbr2 { display: block; height: 10px; background: url("ico_jdt.png") repeat-x scroll 0px 0px transparent; border-radius: 5px 5px 5px 5px; }
+#vfastpost { background: none repeat scroll 0% 0% rgb(229, 237, 242); padding: 3px; }
+.fullvfastpost { margin-top: 30px; }
+#vfastpost th, #vfastpost td { padding: 0px; }
+#vfastpost td { height: 38px; }
+#vfastpost #vf_l { width: 5px; background: url("v.png") no-repeat scroll -30px -39px transparent; }
+#vfastpost #vf_m { background: url("v.png") repeat-x scroll 0px -79px transparent; }
+#vfastpost #vf_m input { width: 100%; border: 1px solid white; outline: medium none; font-size: 14px; }
+#vfastpost #vf_r { width: 10px; background: url("v.png") no-repeat scroll -47px -119px transparent; }
+#vfastpost #vf_b { width: 120px; }
+#vfastpost #vf_b button { width: 120px; display: block; height: 38px; line-height: 100px; overflow: hidden; background: url("v.png") no-repeat scroll 0px 0px transparent; margin: 0px; padding: 0px; border: medium none; }
+.quote { overflow: hidden; margin: 10px 0px; padding-left: 16px; background: url("urn:not-loaded:http://www.amobbs.com/static/image/common/qa.gif") no-repeat scroll 0px 0px transparent; color: rgb(102, 102, 102); }
+.quote blockquote { display: inline; margin: 0px; padding-right: 16px; background: url("urn:not-loaded:http://www.amobbs.com/static/image/common/qz.gif") no-repeat scroll 100% 100% transparent; }
+.attc { width: 20px; }
+.atds { width: 80px; text-align: center; }
+#newspecial_menu { width: 90px; }
+#newspecial_menu li, #sti .wx { display: block; background: url("urn:not-loaded:http://www.amobbs.com/static/image/common/folder_new.gif") no-repeat scroll 8px 50% transparent; }
+#newspecial_menu .reward, #sti .reward { background-image: url("urn:not-loaded:http://www.amobbs.com/static/image/common/rewardsmall.gif"); }
+#newspecial_menu a { display: block; padding: 3px 0px 3px 30px; white-space: normal; }
+#newspecial_menu a:hover { background: none repeat scroll 0% 0% transparent; color: rgb(51, 102, 153); text-shadow: none; text-decoration: underline; }
+#f_pst .tedt { width: auto; }
+.hasfsl { margin-right: 170px; }
+#f_pst .upfl { height: auto; max-height: 100%; }
+#f_pst .upfl td { padding: 4px 0px; }
+#f_pst .atds { width: 100px; }
+#fjump_menu { overflow-x: hidden; max-height: 600px; }
+.vwthd { padding-right: 80px ! important; }
+.vwthd div.y { display: inline; margin-right: -60px; }
+.ts { display: inline; font: 700 16px 'Microsoft Yahei','Hei',Tahoma,'SimHei',sans-serif; }
+#nv_forum #ct { border-color: rgb(204, 204, 204); }
+.authi .none { display: inline-block; }
+.authi .show { display: none; }
+.authi:hover .none { display: none; }
+.authi:hover .show { display: inline-block; }
+.pl {  }
+.pl table { table-layout: fixed; width: 100%; }
+.plm { vertical-align: bottom ! important; }
+.plc, .pls { vertical-align: top; }
+.plc { padding: 0px 20px; }
+.pls { width: 160px; background: none repeat scroll 0% 0% rgb(204, 204, 204); overflow: hidden; border-right: 1px solid rgb(238, 238, 238); }
+.pls .avatar { margin: 10px 15px; }
+.pls .avatar img { padding: 5px 5px 8px; background: url("midavt_shadow.gif") repeat-x scroll 0px 100% rgb(255, 255, 255); width: 120px; }
+.pls .favatar { background: none repeat scroll 0% 0% transparent; height: auto; border-width: 0px; overflow: visible; }
+.pls p, .pls .pil, .pls .o { margin: 5px 10px 5px 20px; }
+.pls p em, .pls dt em { color: rgb(242, 108, 79); }
+.pls dd, .pls dt { float: left; overflow: hidden; height: 1.6em; line-height: 1.6em; }
+.pls dt { margin-right: 3px; width: 55px; }
+.pls dd { width: 70px; }
+.ad .pls { background: none repeat scroll 0% 0% rgb(238, 238, 238); padding: 0px; height: 4px; }
+.ad .plc { background: none repeat scroll 0% 0% rgb(204, 204, 204); padding: 0px; overflow: hidden; }
+.pi { overflow: hidden; margin-bottom: 10px; padding: 10px 0px; height: 16px; border-bottom: 1px dashed rgb(153, 153, 153); }
+.pi strong a { float: right; margin-top: -6px; padding: 4px 6px; border: 1px solid rgb(238, 238, 238); font-weight: 400; }
+.pi strong a:hover { border-color: rgb(153, 153, 153); }
+.pls .pi { padding-left: 15px; }
+.pi em {  }
+.pti {  }
+.authicn { cursor: pointer; width: 16px; }
+.pcb { clear: left; margin-right: 130px; }
+#fj { margin-left: 5px; }
+#fj label, #fj input { margin-right: 4px; padding: 0px; height: 16px; line-height: 16px; }
+.pcb em { color: rgb(102, 102, 102); }
+.pct { padding-bottom: 1em; }
+.t_fsz { min-height: 100px; }
+.t_f, .t_f td { font-size: 12px; }
+.t_f a { color: rgb(51, 102, 153); text-decoration: underline; }
+.t_f i { font-style: italic; }
+.sign { overflow: hidden; margin-bottom: 10px; padding-top: 20px; line-height: 1.6em; background: url("sigline.gif") no-repeat scroll 0px 0px transparent; }
+.sign * { line-height: normal; }
+.po { border-top: 1px dashed rgb(153, 153, 153); }
+.po p { float: right; }
+.po p a, .po p label { margin-right: 6px; }
+.hin { opacity: 0.2; }
+.plhin:hover .hin { opacity: 1; }
+.pob { line-height: 36px; }
+.pob em { float: left; }
+.pob em a { padding: 5px 10px 5px 25px; }
+.fastre { background: url("fastreply.gif") no-repeat scroll 0px 50% transparent; }
+#p_btn { line-height: 24px; padding: 3em 0px; text-align: center; }
+#p_btn a { display: inline-block; margin-right: 3px; padding-right: 4px; padding-left: 8px; background: url("share_btn.png") no-repeat scroll 0px 0px transparent; vertical-align: top; white-space: nowrap; }
+#p_btn a:hover { text-decoration: none; }
+#p_btn i { display: block; padding: 4px 8px 4px 0px; background: url("share_btn.png") no-repeat scroll 100% 100% transparent; font-style: normal; cursor: pointer; }
+#p_btn img { float: left; margin: 4px 4px 0px 0px; }
+#p_btn span { padding-left: 2px; color: rgb(153, 153, 153); }
+#f_pst .plc { padding: 20px; }
+#f_pst .avatar { margin-top: 15px; }
+i.pstatus { display: block; margin-bottom: -30px; font-size: 12px; text-align: center; font-style: normal; line-height: 32px; color: rgb(153, 153, 153); }
+.bui { position: absolute; margin: -1px 0px 0px -1px; padding: 15px 0px 15px 20px; width: 430px ! important; border: 1px solid rgb(153, 153, 153); background: none repeat scroll 0% 0% rgb(238, 238, 238); box-shadow: 2px 2px 3px rgb(221, 221, 221); }
+.bui dl { margin: 5px 0px 10px; }
+.bui dt { width: 4.5em; }
+.bui dd { margin-right: 10px; width: 75px; }
+.bui .i { width: 290px; }
+.imicn img { vertical-align: middle; margin-right: 8px; }
+.card_gender_0 { background: url("urn:not-loaded:http://www.amobbs.com/static/image/common/nosexbg.png") no-repeat scroll right bottom rgb(239, 239, 239); }
+.card_gender_1 { background: url("urn:not-loaded:http://www.amobbs.com/static/image/common/gentlemanbg.png") no-repeat scroll right bottom rgb(187, 235, 249); }
+.pls .o li { background-position: 0px 50%; background-repeat: no-repeat; text-indent: 18px; }
+.pls .o .pm2 { background-image: url("pmto.gif"); }
+.pls .tip_4 { margin-left: -5px; }
+.pl .quote, .pl .blockcode { margin: 10px 0px; padding: 10px 10px 10px 65px; }
+.pl .quote { padding-bottom: 5px; background: url("icon_quote_s.gif") no-repeat scroll 20px 6px rgb(249, 249, 249); }
+.pl .quote blockquote { display: inline-block; margin: 0px; padding: 0px 65px 5px 0px; background: url("icon_quote_e.gif") no-repeat scroll 100% 100% transparent; line-height: 1.6; }
+.pdbt { float: right; margin: -5px 10px 0px 0px; }
+#visitedforums_menu { width: 150px; }
+#visitedforums_menu li { display: block; float: none; }
+#visitedforums_menu td { padding: 5px 10px; vertical-align: top; }
+#visitedforums_menu a { white-space: normal ! important; display: inline-block; overflow: hidden; height: 1.5em; }
+#v_forums { width: 120px; }
+#v_threads li, #v_forums li { padding-left: 10px; background: url("urn:not-loaded:http://www.amobbs.com/static/image/common/dot.gif") no-repeat scroll 0px 7px transparent; }
+#fastsmilies { text-align: right; }
+.pattl { overflow: hidden; padding: 1em 0px; width: 100%; font-size: 12px; }
+.tattl { float: left; overflow: hidden; padding: 10px 10px 10px 0px; width: 45%; height: 64px; }
+.tattl a { color: rgb(51, 102, 153); text-decoration: underline; }
+.tattl dt { float: left; width: 40px; font-weight: 700; }
+.tattl dt img { width: 32px; height: 32px; }
+.tattl dd { margin-left: 40px; color: rgb(153, 153, 153); }
+.attnm { height: 18px; margin-bottom: 3px; overflow: hidden; white-space: nowrap; }
+.attm { overflow: visible; float: none; width: 100%; height: auto; }
+.attm dt { width: 0px; }
+.attm dd { margin-left: 0px; }

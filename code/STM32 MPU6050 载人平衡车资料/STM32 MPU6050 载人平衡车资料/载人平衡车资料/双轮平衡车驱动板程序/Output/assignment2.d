@@ -1,0 +1,17 @@
+..\Output\assignment2.o: assignment2.c
+..\Output\assignment2.o: assignment2.h
+..\Output\assignment2.o: ..\CMSIS\stm32f10x.h
+..\Output\assignment2.o: ..\CMSIS\core_cm3.h
+..\Output\assignment2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\assignment2.o: ..\CMSIS\system_stm32f10x.h
+..\Output\assignment2.o: ..\USER\stm32f10x_conf.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_adc.h
+..\Output\assignment2.o: ..\CMSIS\stm32f10x.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_dma.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_i2c.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_tim.h
+..\Output\assignment2.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\assignment2.o: ..\FWlib\inc\misc.h
