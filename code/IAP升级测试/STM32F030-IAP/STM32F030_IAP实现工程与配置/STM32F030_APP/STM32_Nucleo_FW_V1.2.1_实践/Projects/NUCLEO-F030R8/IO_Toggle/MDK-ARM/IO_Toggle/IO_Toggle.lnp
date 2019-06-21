@@ -1,0 +1,32 @@
+--cpu Cortex-M0
+".\io_toggle\startup_stm32f030.o"
+".\io_toggle\stm32f0xx_adc.o"
+".\io_toggle\stm32f0xx_cec.o"
+".\io_toggle\stm32f0xx_comp.o"
+".\io_toggle\stm32f0xx_crc.o"
+".\io_toggle\stm32f0xx_dac.o"
+".\io_toggle\stm32f0xx_dbgmcu.o"
+".\io_toggle\stm32f0xx_dma.o"
+".\io_toggle\stm32f0xx_exti.o"
+".\io_toggle\stm32f0xx_flash.o"
+".\io_toggle\stm32f0xx_gpio.o"
+".\io_toggle\stm32f0xx_i2c.o"
+".\io_toggle\stm32f0xx_iwdg.o"
+".\io_toggle\stm32f0xx_misc.o"
+".\io_toggle\stm32f0xx_pwr.o"
+".\io_toggle\stm32f0xx_rcc.o"
+".\io_toggle\stm32f0xx_rtc.o"
+".\io_toggle\stm32f0xx_spi.o"
+".\io_toggle\stm32f0xx_syscfg.o"
+".\io_toggle\stm32f0xx_tim.o"
+".\io_toggle\stm32f0xx_usart.o"
+".\io_toggle\stm32f0xx_wwdg.o"
+".\io_toggle\stm32f0xx_nucleo.o"
+".\io_toggle\main.o"
+".\io_toggle\stm32f0xx_it.o"
+".\io_toggle\system_stm32f0xx.o"
+--library_type=microlib --strict --scatter ".\IO_Toggle\IO_Toggle.sct"
+
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "IO_Toggle.map" -o .\IO_Toggle\IO_Toggle.axf

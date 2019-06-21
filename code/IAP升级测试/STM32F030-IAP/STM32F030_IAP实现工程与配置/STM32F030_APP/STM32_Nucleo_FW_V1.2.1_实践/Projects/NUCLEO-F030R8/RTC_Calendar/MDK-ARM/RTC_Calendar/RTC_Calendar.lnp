@@ -1,0 +1,32 @@
+--cpu Cortex-M0
+"rtc_calendar\startup_stm32f030.o"
+"rtc_calendar\stm32f0xx_adc.o"
+"rtc_calendar\stm32f0xx_cec.o"
+"rtc_calendar\stm32f0xx_comp.o"
+"rtc_calendar\stm32f0xx_crc.o"
+"rtc_calendar\stm32f0xx_dac.o"
+"rtc_calendar\stm32f0xx_dbgmcu.o"
+"rtc_calendar\stm32f0xx_dma.o"
+"rtc_calendar\stm32f0xx_exti.o"
+"rtc_calendar\stm32f0xx_flash.o"
+"rtc_calendar\stm32f0xx_gpio.o"
+"rtc_calendar\stm32f0xx_i2c.o"
+"rtc_calendar\stm32f0xx_iwdg.o"
+"rtc_calendar\stm32f0xx_misc.o"
+"rtc_calendar\stm32f0xx_pwr.o"
+"rtc_calendar\stm32f0xx_rcc.o"
+"rtc_calendar\stm32f0xx_rtc.o"
+"rtc_calendar\stm32f0xx_spi.o"
+"rtc_calendar\stm32f0xx_syscfg.o"
+"rtc_calendar\stm32f0xx_tim.o"
+"rtc_calendar\stm32f0xx_usart.o"
+"rtc_calendar\stm32f0xx_wwdg.o"
+"rtc_calendar\stm32f0xx_nucleo.o"
+"rtc_calendar\main.o"
+"rtc_calendar\stm32f0xx_it.o"
+"rtc_calendar\system_stm32f0xx.o"
+--library_type=microlib --strict --scatter "RTC_Calendar\RTC_Calendar.sct"
+
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "RTC_Calendar.map" -o RTC_Calendar\RTC_Calendar.axf

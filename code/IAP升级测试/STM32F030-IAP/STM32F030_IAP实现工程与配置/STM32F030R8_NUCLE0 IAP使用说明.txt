@@ -1,0 +1,11 @@
+建议：工程使用KEIL软件打开，本次实验使用的KEIL的版本为4.7.4
+
+1、stm32f0_IAP，该工程为IAP工程，将该程序通过ST-Linker下载到开发板。
+2、DM00050074_zh.pdf，该文档为IAP的应用笔记，下载IAP程序后，如何使用IAP实现APP的下载参考该文档
+3、APP工程为IO_Toggle，在该路径下\STM32F030_APP\STM32_Nucleo_FW_V1.2.1_实践\Projects\NUCLEO-F030R8\IO_Toggle
+4、“STM32F030_IAP实现配置”文件夹下的3张图片为IAP与APP的KEIL参数配置，主要是 IROM1与IRAM1的修改,APP工程下将hex文件转换成bin文件的配置。APP程序要确保修改正确。
+
+
+注意：
+
+IAP程序的实现需要硬件引脚的支持，请查看IAP程序。
